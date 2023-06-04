@@ -10,10 +10,12 @@ function App() {
     <h1>Jake Coffey</h1>
     <h2>IT Professional</h2>
     <h3>About me:</h3>    
-    <p>Iam a self motivated IT professonal with a wide variety of interests and expiences in the space, ranging from network & system administration to User support 
-      and help desk. Ontop of those I also have an interest and expeirence in development both web and local, cyber security and cloud migrations.Below you will find 
-      different links where youll be able to see some things ive worked on & what im currently wokring on.I'm always interested in learning new technologes and skills 
-      soplease reach out at Contact@jakecoffey.com if you'd like to work with me. </p>
+    <p>I am a self-motivated IT professional with a wide variety of interests and experiences in the field. 
+      My expertise ranges from network and system administration to user support and help desk. In addition 
+      to these areas, I also have a strong interest and experience in web and local development, cybersecurity,
+      and cloud migrations. Below, you will find various links where you can see some of the projects I have 
+      worked on and what I am currently working on. I am always eager to learn new technologies and skills, 
+      so please feel free to reach out to me at Contact@jakecoffey.com if you would like to collaborate with me.</p>
       <Links></Links>
     </div>
     
