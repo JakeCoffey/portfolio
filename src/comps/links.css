@@ -1,0 +1,22 @@
+
+.list{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    color: white;
+
+}
+img{
+    margin: 10px;
+    
+
+}
+li{
+    margin: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-bottom:40px;
+
+}
